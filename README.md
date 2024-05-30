@@ -229,7 +229,7 @@ void f()
 
 Sizeof  of pointer in 32 bit machine is always 4 bytes.
 
-### 17. Write a program to find weather machine is 32 bit or 64 bit?
+### 17. Write a program to find either machine is 32 bit or 64 bit?
 
 ```c
 int main()
